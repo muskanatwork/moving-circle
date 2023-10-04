@@ -1,0 +1,11 @@
+.circle {
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 30px;
+    position: absolute;
+}
+
+.parent {
+    position: relative;
+}
